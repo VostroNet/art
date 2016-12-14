@@ -6,7 +6,7 @@
 	url = https://github.com/VostroNet/link.js.git
 [submodule "lib/slick"]
 	path = lib/slick
-	url = git://github.com/mootools/slick.git
+	url = https://github.com/VostroNet/slick.git
 [submodule "lib/ast-js"]
 	path = lib/ast-js
 	url = git://github.com/sebmarkbage/ast-js.git
